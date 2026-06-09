@@ -1,6 +1,5 @@
-====================================================================
 AGROVIS — MÓDULO DE CIBERSEGURANÇA (GLOBAL SOLUTION 2026)
-====================================================================
+
 EQUIPE E INTEGRANTES
 
 * Augusto Rocha Silva - RM556316
